@@ -185,3 +185,6 @@ FROM #VacPop
 ORDER BY PerOfVac DESC;
 
 
+
+SELECT *
+    FROM Portfolioproject..coviddeaths
